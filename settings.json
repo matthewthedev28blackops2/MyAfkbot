@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "newzelandv2776.mcsh.io",
+    "port": 25565,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1539283395912147056/48rAEnEDlEbr3HYrD_biu_R5eK9pMmLLBho9Cs79rJHVQjjEg-qhWCDyJgvK663aE5ms",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
