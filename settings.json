@@ -8,8 +8,8 @@
   "server": {
     "ip": "newzelandv2776.mcsh.io",
     "port": 25565,
-    "version": "26.2",
-    "try-creative": false
+    "version": "1.21.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
