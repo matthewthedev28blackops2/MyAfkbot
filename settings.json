@@ -38,15 +38,15 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 200,
+    "max-reconnect-delay": 120
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 5,
+      "speed": 30
     },
     "look-around": {
       "enabled": true,
@@ -77,7 +77,7 @@
     "webhookUrl": "https://discord.com/api/webhooks/1539283395912147056/48rAEnEDlEbr3HYrD_biu_R5eK9pMmLLBho9Cs79rJHVQjjEg-qhWCDyJgvK663aE5ms",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": true
     }
   },
